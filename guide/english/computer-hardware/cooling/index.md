@@ -12,6 +12,8 @@ Cooling devices are available for individual parts on the computer. The two most
 * Passive Systems - Usually consist of a heat sink or a heat conductive metal attached to the component. Passive cooling works by providing a larger surface to adsorb and dissipate the heat.
 * Active Systems - Add a fan to the heat sink and you are actively removing heat. The cooling fan can be dynamically adjusted to the load of the CPU or graphics card on most motherboards.
 * Liquid Cooling - High performance computers can benefit from a liquid cooled system. These types of systems circulate a liquid between the hot components and a cooling radiator.
+* Dry ice and LN2 cooling = For overclocking there is often need for even a better cooling system then liquid cooling. This is done thrue cooling with dry ice or ln2. This method isn't used for daily use of the computers. Only for the record attempts.
+
 
 ## Environmental Considerations
 
