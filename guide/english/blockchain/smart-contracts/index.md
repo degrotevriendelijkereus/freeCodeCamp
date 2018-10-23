@@ -11,10 +11,17 @@ As a piece of code that sits on the blockchain, a smart contract can automate ta
 When an account receives money it can automatically distribute it to others.
 This is entirely transparent so all the nodes(miners) can see what logic is being executed.
 
-
 ## Blockchain Technologies
 
 Two of the most common technologies used are :
 - Ethereum
 - Hyperledger
 
+## Uses of Smart Contracts
+
+Smart contracts can:
+
+Function as 'multi-signature' accounts, so that funds are spent only when a required percentage of people agree
+Manage agreements between users, say, if one buys insurance from the other
+Provide utility to other contracts (similar to how a software library works)
+Store information about an application, such as domain registration information, personal records or medical records.
